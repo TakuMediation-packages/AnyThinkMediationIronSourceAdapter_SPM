@@ -17,7 +17,7 @@ The Taku (AnyThink) Unity LevelPlay (ironSource) mediation adapter for iOS, dist
    ```
    https://github.com/TakuMediation-packages/AnyThinkMediationIronSourceAdapter_SPM
    ```
-3. Select **Exact Version** and enter the target version (e.g. `9.3.0-0.2.1`).
+3. Select **Exact Version** and enter the target version (e.g. `90300.2.1`).
 4. Add the `AnyThinkMediationIronSourceAdapter` product to your app target.
 5. In your target's **Build Settings**, add `-ObjC` to **Other Linker Flags**.
 
@@ -27,7 +27,7 @@ The Taku (AnyThink) Unity LevelPlay (ironSource) mediation adapter for iOS, dist
 dependencies: [
     .package(
         url: "https://github.com/TakuMediation-packages/AnyThinkMediationIronSourceAdapter_SPM.git",
-        exact: "9.3.0-0.2.1"
+        exact: "90300.2.1"
     )
 ]
 ```
