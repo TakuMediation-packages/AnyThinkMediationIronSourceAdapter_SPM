@@ -5,7 +5,7 @@ The Taku (AnyThink) Unity LevelPlay (ironSource) mediation adapter for iOS, dist
 ## Requirements
 
 - iOS 12.0+
-- Xcode 15.0+
+- Xcode 16.0+
 - Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.0+
 
 ## Installation
