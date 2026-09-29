@@ -6,7 +6,7 @@ The Taku (AnyThink) Unity LevelPlay (ironSource) mediation adapter for iOS, dist
 
 - iOS 12.0+
 - Xcode 16.0+
-- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.0+
+- Taku (AnyThink) iOS Core SDK (`AnyThinkiOS`) 6.5.60+
 
 ## Installation
 
@@ -34,8 +34,8 @@ dependencies: [
 
 ## Included dependencies
 
-- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.0)
-- [`IronSourceSDK`](https://github.com/ironsource-mobile/LevelPlay-Swift-Package) (pinned to the version certified for this adapter release)
+- [`AnyThinkiOS`](https://github.com/TakuMediation-packages/AnyThinkiOS_SPM) (>= 6.5.60)
+- [`UnityMediationSDK`](https://github.com/ironsource-mobile/LevelPlay-Swift-Package) (pinned to the version certified for this adapter release)
 
 ## More information
 
